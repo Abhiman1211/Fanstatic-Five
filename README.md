@@ -79,6 +79,23 @@ Admin Dashboard
 ![WhatsApp Image 2022-02-13 at 5 09 35 PM](https://user-images.githubusercontent.com/73026322/153751472-e3bbbeaa-ec30-43f7-baa3-f06bbb958ea4.jpeg)
 
 
+Admin Patient Appointment History
+------------------------------------------------------------------------------------------------
+
+![WhatsApp Image 2022-02-13 at 5 10 01 PM](https://user-images.githubusercontent.com/73026322/153751549-f1ce88b7-af90-4cbf-9810-8c2530ed0ab5.jpeg)
+
+
+Admin View Patient 
+-------------------------------------------------------------------------------------------------
+
+![WhatsApp Image 2022-02-13 at 5 10 43 PM](https://user-images.githubusercontent.com/73026322/153751589-926c0169-3ca4-4099-ba88-01089602895a.jpeg)
+
+
+About Us Page
+-------------------------------------------------------------------------------------------------
+
+![WhatsApp Image 2022-02-13 at 5 17 26 PM](https://user-images.githubusercontent.com/73026322/153751618-ad6771c6-f8bd-48df-9f67-ad1785845631.jpeg)
+
 
 
 

@@ -76,8 +76,7 @@ Admin Login
 Admin Dashboard
 ------------------------------------------------------------------------------------------------
 
-![WhatsApp Image 2022-02-13 at 4 51 06 PM](https://user-images.githubusercontent.com/73026322/153751446-45286efd-5f6d-4284-ac87-56bd684ae035.jpeg)
-
+![WhatsApp Image 2022-02-13 at 5 09 35 PM](https://user-images.githubusercontent.com/73026322/153751472-e3bbbeaa-ec30-43f7-baa3-f06bbb958ea4.jpeg)
 
 
 

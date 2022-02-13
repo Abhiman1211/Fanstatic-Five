@@ -46,12 +46,6 @@ Patient Registration
 User Dashboard
 ----------------------------------------------------------------------------------------------
 
-![WhatsApp Image 2022-02-13 at 4 48 21 PM](https://user-images.githubusercontent.com/73026322/153751124-8c824316-05a6-45f5-9ea2-1bded86895e3.jpeg)
-
-
-User Book Appointment
------------------------------------------------------------------------------------------------
-
 ![WhatsApp Image 2022-02-13 at 4 49 17 PM](https://user-images.githubusercontent.com/73026322/153751170-cb5bd67e-fed4-4983-8ba6-bc41815ef02a.jpeg)
 
 

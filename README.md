@@ -1,4 +1,4 @@
-# Fanstatic-Five
+# EZCARE Hospital Management System
 # Prerequisites
 --------------------------------------------------------------------------------------------
 1.Install XAMPP Web Server

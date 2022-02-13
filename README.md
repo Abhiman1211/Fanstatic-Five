@@ -1,2 +1,2 @@
 # Fanstatic-Five
-<font size = "5">Prerequisites</font>
+<font size = "15">Prerequisites</font>
